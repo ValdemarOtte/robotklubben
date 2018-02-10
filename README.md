@@ -1,1 +1,1 @@
-# robotklubben
+Robotklubben, Faaborg Gymnasium
